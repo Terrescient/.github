@@ -132,7 +132,6 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 | `005` **Space exploration** | Mineral resource maps of Mars and the Moon, built with the same AI-native methods and honest uncertainty we apply on Earth. |
 | `006` **Scientific data mining** | Decades of published research brought into versioned, fully provenanced datasets, each record traced to its source and reviewed by our scientists before it feeds our models. |
 | `007` **AI-ready planetary geoscience** | Our models served as tools that any AI assistant can call, so plate reconstructions and mineral maps can be queried in plain language by non-specialists. |
-| `008` **Research consultancy** | Bespoke planetary geoscience R&D, from proof of concept to AI-native modelling workflows built around your data and questions. |
 
 <br>
 
