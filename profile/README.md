@@ -25,7 +25,7 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 
 **How we use AI**
 
-- **Expertise sets the direction.** Our scientists define the questions, choose the physics and decide what counts as a good answer. AI accelerates implementation and testing, and every result is checked against the governing equations, established reference models and observations.
+- **Expertise sets the direction.** Our scientists define the questions, choose the physics and design the experiments. AI accelerates implementation and testing, and every result is checked against the governing equations, established reference models and observations.
 - **Validated by the literature.** Our models are built on published, peer-reviewed science and are judged against it. We credit the research our work stands on, and we collaborate closely with the academic groups who produce it.
 - **Uncertainty is the product.** Inputs are distributions, outputs are scored ensembles. We never ship one answer when the data support many, and we make the full solution space explorable.
 - **Problems that were out of reach.** Efficient methods and AI-assisted development mean hundreds of model runs can cost what one used to, so ensemble questions that once needed a supercomputer become practical on a desktop.
