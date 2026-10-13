@@ -55,7 +55,7 @@ A framework for generating full, uncertainty-quantified plate tectonic reconstru
 ### `002` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
-A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built as a Mise Agent-Assembled Model, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
+A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built using our propietary Mise Agent-Assembled Model (AAM) architecture, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ A global 3D mantle convection model purpose built for ensembles rather than sing
 ### `003` MISE
 **Core framework for agent-assembled models**
 
-The shared method behind our agent-built models: a codex of physical mechanisms, interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient, cheapest test first. Mise asks one question of every model: what is the cheapest representation that still satisfies the governing equations, and how do we know it is good enough?
+The shared method and philosophy behind our agent-built models: a codex of physical mechanisms, interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient, cheapest test first. Mise asks one question of every model: what is the cheapest representation that still satisfies the governing equations, and how do we test if this solution is good enough?
 
 </td>
 <td width="50%" valign="top">
