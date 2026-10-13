@@ -19,17 +19,17 @@
 
 <br>
 
-## `[ 01 ]` AI-NATIVE SCIENCE
+## `[ 01 ]` SCIENTIST-LED · AI-ACCELERATED
 
-Conventional geoscientific tools collapse genuine geological uncertainty into single deterministic answers and demand deep specialist expertise to operate and interpret. We build the alternative: software in which machine intelligence is part of the scientific method itself, not a layer bolted on at the end.
+Our work is driven by the domain knowledge of our research scientists and grounded in, and validated against, the published literature. Machine intelligence is how we accelerate that work: it lets us take on problems that were not previously feasible, at a scale and speed that conventional workflows cannot reach.
 
-**What AI-native means to us**
+**How we use AI**
 
-- **Agents assemble the models.** Our physical models are built from a codex of tested, interchangeable ingredients. Swarms of AI agents turn literature into code, propose cheaper formulations, run the evidence ladder and repair what fails. Humans set the questions and the acceptance thresholds. Nothing is a black-box surrogate: every run solves the governing equations.
+- **Expertise sets the direction.** Our scientists define the questions, choose the physics and decide what counts as a good answer. AI accelerates implementation and testing, and every result is checked against the governing equations, established reference models and observations.
+- **Validated by the literature.** Our models are built on published, peer-reviewed science and are judged against it. We credit the research our work stands on, and we collaborate closely with the academic groups who produce it.
 - **Uncertainty is the product.** Inputs are distributions, outputs are scored ensembles. We never ship one answer when the data support many, and we make the full solution space explorable.
-- **Science is served to AI, not just by it.** Our capabilities are exposed as typed tools over the Model Context Protocol, so any AI assistant becomes a front end to plate reconstruction and mineral mapping. The customer's AI supplies the intelligence. We supply the capability.
-- **Legacy knowledge is mined, not shelved.** Vision-language models extract structured records from decades of published literature into versioned, provenance-tracked datasets that feed the models above.
-- **The desktop is the supercomputer.** Spectral and propagator methods, Green's functions and perturbative corrections replace brute-force meshes wherever the equations allow, so hundreds of model runs cost what one HPC run used to.
+- **Problems that were out of reach.** Efficient methods and AI-assisted development mean hundreds of model runs can cost what one used to, so ensemble questions that once needed a supercomputer become practical on a desktop.
+- **Science that AI assistants can use.** Our capabilities are exposed as tools that any AI assistant can call, putting plate reconstruction and mineral mapping in reach of people who are not tectonics or remote-sensing specialists.
 
 <br>
 
@@ -90,7 +90,7 @@ A hosted service exposing Terrescient's tectonic reconstruction and mineral-mapp
 ### `006` HUGINN · MUNINN
 **Versioned planetary geoscience data platform with automated literature extraction**
 
-Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn uses vision-language models to extract new records from the scientific literature into that same platform, so decades of legacy archives become live, queryable inputs to the models above.
+Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn helps our scientists bring published results into that same platform, each record traced to its original source and reviewed before use, so decades of research become live, queryable inputs to the models above.
 
 </td>
 </tr>
