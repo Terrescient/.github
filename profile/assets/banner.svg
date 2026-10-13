@@ -11,6 +11,5 @@
   <text x="160" y="96" font-family="'Space Grotesk','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="60" letter-spacing="6" fill="#e9e6dd">TERRESCIENT<tspan fill="#c47b4a">.</tspan></text>
   <text x="163" y="138" font-family="'Space Mono',Menlo,Consolas,monospace" font-size="17" letter-spacing="5" fill="#c47b4a">[ 00 ] PLANETARY GEOSCIENCE × MACHINE INTELLIGENCE</text>
   <text x="163" y="172" font-family="'Space Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="3" fill="#9c978c">AI-NATIVE SCIENCE FOR EARTH, MARS AND THE MOON · SYDNEY, AUSTRALIA</text>
-  <text x="1120" y="200" text-anchor="end" font-family="'Space Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#7e7a70">THE EARTH IS AMAZING</text>
   <rect x="0" y="216" width="1200" height="4" fill="#c47b4a"/>
 </svg>
