@@ -125,12 +125,14 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 | | |
 |:--|:--|
-| `001` **Critical mineral discovery** | A data-science framework to predict, map and identify subsurface critical mineral resources for a cleaner energy future. |
-| `002` **AI mapping technology** | Rapidly process, data-mine and map remote-sensing data products using our AI mapping framework. |
-| `003` **Space exploration** | Explore mineral resource maps of both Mars and the Moon using our AI satellite mapping suite. |
-| `004` **Scientific data mining** | Analyse and mine existing scientific datasets to surface hidden value, turning legacy data archives into actionable planetary geoscientific insight. |
-| `005` **Digital Earth 4D modelling** | Unprecedented insight through 3 billion years of geological, tectonic and geodynamic history. |
-| `006` **Research consultancy** | Bespoke planetary geoscience R&D, machine learning, big data and proof-of-concept progression. |
+| `001` **Critical mineral discovery** | Probabilistic mineral maps and deep-time tectonic context combined to predict, map and identify critical mineral resources for a cleaner energy future, with the uncertainty in every target made explicit. |
+| `002` **Digital Earth 4D modelling** | Ensembles of coupled plate and mantle histories that explore every statistically viable evolution of the Earth, so surface and deep-Earth uncertainty are quantified together rather than hidden in a single model. |
+| `003` **Agent-Assembled Models** | Physical models assembled, tested and refined by AI agents under the direction of our scientists, graded against frontier models and observations, and fast enough to run hundreds of times on a desktop. |
+| `004` **AI mineral mapping** | Unsupervised mapping of hyperspectral satellite imagery with no ground samples or labelled training data, returning a distribution of mineral solutions for every pixel rather than a single answer. |
+| `005` **Space exploration** | Mineral resource maps of Mars and the Moon, built with the same AI-native methods and honest uncertainty we apply on Earth. |
+| `006` **Scientific data mining** | Decades of published research brought into versioned, fully provenanced datasets, each record traced to its source and reviewed by our scientists before it feeds our models. |
+| `007` **AI-ready planetary geoscience** | Our models served as tools that any AI assistant can call, so plate reconstructions and mineral maps can be queried in plain language by non-specialists. |
+| `008` **Research consultancy** | Bespoke planetary geoscience R&D, from proof of concept to AI-native modelling workflows built around your data and questions. |
 
 <br>
 
