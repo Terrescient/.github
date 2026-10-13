@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Terrescient — Geoscience × Machine Intelligence" width="100%">
+  <img src="assets/banner.svg" alt="Terrescient — Planetary Geoscience × Machine Intelligence" width="100%">
 </p>
 
 <p align="center">
@@ -15,8 +15,13 @@
 <p align="center"><em>… and what it needs now more than anything is innovation.</em></p>
 
 <p align="center">
-Terrescient crafts AI-driven, environmentally-aware geoscientific solutions for resource exploration,<br>
+Terrescient crafts AI-driven, environmentally-aware planetary geoscientific solutions for resource exploration,<br>
 helping drive the transition from fossil-fuel dependence to a reliable, sustainable and clean energy future.
+</p>
+
+<p align="center">
+<sub><code>PLANETARY GEOSCIENCE</code></sub><br>
+<em>One science, every world. The same AI-native models, data and tools that reconstruct the Earth map the surfaces of Mars and the Moon.</em>
 </p>
 
 <p align="center">
@@ -99,9 +104,9 @@ A hosted service exposing Terrescient's tectonic reconstruction and mineral-mapp
 <td width="50%" valign="top">
 
 ### `006` HUGINN · MUNINN
-**Versioned geoscience data platform with automated literature extraction**
+**Versioned planetary geoscience data platform with automated literature extraction**
 
-Named for Odin's ravens, memory and thought. Muninn consolidates global geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn uses vision-language models to extract new records from the scientific literature into that same platform, so decades of legacy archives become live, queryable inputs to the models above.
+Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn uses vision-language models to extract new records from the scientific literature into that same platform, so decades of legacy archives become live, queryable inputs to the models above.
 
 </td>
 </tr>
@@ -121,7 +126,7 @@ Developed together with the EarthByte Group at The University of Sydney, GPlates
 ### `∞` BLACKBIRD
 **The foundation underneath**
 
-Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and geoscientific computation, developed directly from current academic research. One shared implementation, tested once, used everywhere.
+Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and planetary geoscientific computation, developed directly from current academic research. One shared implementation, tested once, used everywhere.
 
 </td>
 </tr>
@@ -142,9 +147,9 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 | `001` **Critical mineral discovery** | A data-science framework to predict, map and identify subsurface critical mineral resources for a cleaner energy future. |
 | `002` **AI mapping technology** | Rapidly process, data-mine and map remote-sensing data products using our AI mapping framework. |
 | `003` **Space exploration** | Explore mineral resource maps of both Mars and the Moon using our AI satellite mapping suite. |
-| `004` **Scientific data mining** | Analyse and mine existing scientific datasets to surface hidden value, turning legacy data archives into actionable geoscientific insight. |
+| `004` **Scientific data mining** | Analyse and mine existing scientific datasets to surface hidden value, turning legacy data archives into actionable planetary geoscientific insight. |
 | `005` **Digital Earth 4D modelling** | Unprecedented insight through 3 billion years of geological, tectonic and geodynamic history. |
-| `006` **Research consultancy** | Bespoke geoscience R&D, machine learning, big data and proof-of-concept progression. |
+| `006` **Research consultancy** | Bespoke planetary geoscience R&D, machine learning, big data and proof-of-concept progression. |
 
 <br>
 
