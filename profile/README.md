@@ -71,9 +71,9 @@ Mise is our answer to a simple question: what if a scientific model could be ass
 <td width="50%" valign="top">
 
 ### `004` CKYBORG
-**AI satellite mineralogy mapping**
+**Agent-driven probabilistic mineralogy mapping**
 
-An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable equally to Earth and planetary investigations. Rapidly process, data-mine and map remote-sensing data products for critical mineral discovery on Earth and mineral resource mapping of Mars and the Moon.
+An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable equally to Earth and planetary investigations. We are now bringing the Mise philosophy to the image itself: rather than a single deterministic map, AI agents embedded in the analysis make observations, test competing interpretations and correct as they go, returning a distribution of mineral solutions for every pixel. The result is mineral mapping with honest uncertainty, for critical mineral discovery on Earth and resource mapping of Mars and the Moon.
 
 </td>
 </tr>
