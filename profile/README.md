@@ -55,7 +55,7 @@ A framework for generating full, uncertainty-quantified plate tectonic reconstru
 ### `002` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
-A global mantle convection model purpose built for ensembles rather than single heroic runs. Built as a Mise Agent-Assembled Model, it is put together by AI agents from tested, interchangeable physical ingredients and graded against frontier models and seismic tomography. It runs on a desktop in minutes, so hundreds of runs with different physical choices are affordable where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
+A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built as a Mise Agent-Assembled Model, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
 
 </td>
 </tr>
