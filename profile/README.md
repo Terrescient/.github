@@ -46,7 +46,7 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 ### `001` CONTINUUM
 **Unified probabilistic plate reconstruction**
 
-A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer.
+A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer. Coupled with Mantlepiece, each reconstruction can be tested against the mantle flow it implies, linking the Earth's surface history to its deep interior.
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +54,7 @@ A framework for generating full, uncertainty-quantified plate tectonic reconstru
 ### `002` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
-A global mantle convection model built for ensembles rather than single heroic runs. Assembled by AI agents from tested, interchangeable physical ingredients and graded against frontier models and seismic tomography, it runs on a desktop in minutes, so hundreds of runs with different physical choices are affordable where one conventional run would take hundreds of HPC core-hours.
+A global mantle convection model built for ensembles rather than single heroic runs. Assembled by AI agents from tested, interchangeable physical ingredients and graded against frontier models and seismic tomography, it runs on a desktop in minutes, so hundreds of runs with different physical choices are affordable where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
 
 </td>
 </tr>
