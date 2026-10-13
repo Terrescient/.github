@@ -2,10 +2,6 @@
   <img src="assets/banner.svg" alt="Terrescient — Planetary Geoscience × Machine Intelligence" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/earth-1000ma-to-present.gif" alt="One billion years of plate motion, reconstructed from 1000 Ma to the present day" width="100%">
-</p>
-
 <br>
 
 <p align="center">
@@ -14,7 +10,7 @@
   <a href="https://terrescient.com/#contact"><img src="assets/btn-contact.svg" alt="Get in touch" height="44"></a>
 </p>
 
-<br>
+<br><br>
 
 > *"Somewhere, something incredible is waiting to be known."* — Carl Sagan
 
