@@ -5,24 +5,8 @@
 <p align="center">
   <img src="assets/earth-1000ma-to-present.gif" alt="One billion years of plate motion, reconstructed from 1000 Ma to the present day" width="100%">
 </p>
-<p align="center">
-  <sub><code>TECTONIC · REALTIME · 1000 Ma → 0 Ma · REFERENCE MODEL: MÜLLER ET AL. (2022)</code></sub>
-</p>
 
 <br>
-
-<h2 align="center">The Earth is amazing.</h2>
-<p align="center"><em>… and what it needs now more than anything is innovation.</em></p>
-
-<p align="center">
-Terrescient crafts AI-driven, environmentally-aware planetary geoscientific solutions for resource exploration,<br>
-helping drive the transition from fossil-fuel dependence to a reliable, sustainable and clean energy future.
-</p>
-
-<p align="center">
-<sub><code>PLANETARY GEOSCIENCE</code></sub><br>
-<em>One science, every world. The same AI-native models, data and tools that reconstruct the Earth map the surfaces of Mars and the Moon.</em>
-</p>
 
 <p align="center">
   <a href="https://terrescient.com"><strong>terrescient.com</strong></a> &nbsp;·&nbsp;
@@ -177,6 +161,10 @@ We maintain a public fork of [GPlates](https://github.com/Terrescient/GPlates) a
 > *"We have two ears and one mouth so that we can listen twice as much as we speak."* — Epictetus
 
 Any questions, thoughts or ideas? We'd love to hear from you. Get in touch to find out how we can work together.
+
+<p align="center">
+  <sub><code>1000 Ma → 0 Ma · REFERENCE MODEL: MÜLLER ET AL. (2022)</code></sub>
+</p>
 
 <p align="center">
   <a href="https://terrescient.com"><strong>terrescient.com</strong></a>
