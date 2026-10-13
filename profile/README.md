@@ -38,7 +38,7 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 
 <br>
 
-## `[ 02 ]` PROJECTS
+## `[ 02 ]` CURRENT PROJECTS
 
 <table>
 <tr>
