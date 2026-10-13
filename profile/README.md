@@ -21,7 +21,7 @@
 
 ## `[ 01 ]` SCIENTIST-LED · AI-ACCELERATED
 
-Our work is driven by the domain knowledge of our research scientists and always grounded in, and validated against, the published literature. AI -native science is using machine intelligence to accelerate that work: it lets us tackle scientific problems that were not previously feasible, at a scale and speed that conventional workflows cannot reach.
+Our work is driven by domain knowledge and always grounded in, and validated against, the published literature. For us, AI-native science is integrating machine intelligence into our models - both advancing and accelerating our research: it lets us tackle scientific problems that were not previously feasible, at a scale and speed that conventional workflows cannot reach.
 
 **How we use AI**
 
