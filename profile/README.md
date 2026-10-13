@@ -81,9 +81,9 @@ An unsupervised machine-learning pipeline that maps minerals from hyperspectral 
 <td width="50%" valign="top">
 
 ### `005` BLACKBIRD AI
-**Earth science as tools for AI assistants**
+**Planetary geoscience as tools for AI assistants**
 
-A hosted service exposing Terrescient's tectonic reconstruction and mineral-mapping capability as typed, agent-callable tools over the Model Context Protocol. Any MCP-capable AI assistant becomes a front end: ask a question in plain language, the AI selects the tools, and the tools return structured results, including ensemble uncertainty from Continuum. The customer's AI supplies the intelligence. We supply the capability.
+A hosted service that makes Terrescient's models and planetary science infrastructure available to AI assistants as typed, agent-callable tools over the Model Context Protocol. Any MCP-capable assistant becomes a front end: ask a question in plain language, the AI selects the tools, and the tools return structured results, including the ensemble uncertainty that runs through all of our work. Blackbird AI is the common gateway to our modelling, starting with Continuum plate reconstructions and growing to include Mantlepiece mantle histories and ckyborg mineral maps. The customer's AI supplies the intelligence. We supply the capability.
 
 </td>
 <td width="50%" valign="top">
