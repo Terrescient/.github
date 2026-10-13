@@ -51,7 +51,7 @@ A framework for generating full, uncertainty-quantified plate tectonic reconstru
 ### `002` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
-A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built using our propietary Mise Agent-Assembled Model (AAM) architecture, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
+A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built using our proprietary Mise Agent-Assembled Model (AAM) architecture, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ Mise is our answer to a simple question: what if a scientific model could be ass
 ### `004` CKYBORG
 **Agent-driven probabilistic mineralogy mapping**
 
-An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable equally to Earth and planetary investigations. We are now bringing the Mise philosophy to the image itself: rather than a single deterministic map, AI agents embedded in the analysis make observations, test competing interpretations and correct as they go, returning a distribution of mineral solutions for every pixel. The result is mineral mapping with honest uncertainty, for critical mineral discovery on Earth and resource mapping of Mars and the Moon.
+An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable to both Earth and planetary investigations. We are now bringing the Mise philosophy to the image itself: rather than a single deterministic map, AI agents embedded in the method make observations, test competing interpretations and refine the analysis between runs, returning a distribution of mineral solutions for every pixel. The result is mineral mapping with honest uncertainty, for critical mineral discovery on Earth and resource mapping of Mars and the Moon.
 
 </td>
 </tr>
@@ -160,11 +160,9 @@ We maintain a public fork of [GPlates](https://github.com/Terrescient/GPlates) a
 Any questions, thoughts or ideas? We'd love to hear from you. Get in touch to find out how we can work together.
 
 <p align="center">
-  <sub><code>1000 Ma → 0 Ma · REFERENCE MODEL: MÜLLER ET AL. (2022)</code></sub>
-</p>
-
-<p align="center">
-  <a href="https://terrescient.com"><strong>terrescient.com</strong></a>
+  <a href="https://terrescient.com"><img src="assets/btn-website.svg" alt="terrescient.com" height="44"></a>
+  &nbsp;&nbsp;
+  <a href="https://terrescient.com/#contact"><img src="assets/btn-contact.svg" alt="Get in touch" height="44"></a>
 </p>
 
 <br>
