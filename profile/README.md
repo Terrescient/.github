@@ -9,8 +9,9 @@
 <br>
 
 <p align="center">
-  <a href="https://terrescient.com"><strong>terrescient.com</strong></a> &nbsp;·&nbsp;
-  <a href="https://terrescient.com/#contact">Get in touch →</a>
+  <a href="https://terrescient.com"><img src="assets/btn-website.svg" alt="terrescient.com" height="44"></a>
+  &nbsp;&nbsp;
+  <a href="https://terrescient.com/#contact"><img src="assets/btn-contact.svg" alt="Get in touch" height="44"></a>
 </p>
 
 <br>
