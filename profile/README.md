@@ -47,7 +47,7 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 ### `001` CONTINUUM
 **Unified probabilistic plate reconstruction**
 
-A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer. Coupled with Mantlepiece, each reconstruction can be tested against the mantle flow it implies, linking the Earth's surface history to its deep interior.
+A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer. Coupled with Mantlepiece, each reconstruction can be tested by the mantle structure it predicts, linking the Earth's surface history to its deep interior.
 
 </td>
 <td width="50%" valign="top">
