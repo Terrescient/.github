@@ -57,9 +57,7 @@ Conventional geoscientific tools collapse genuine geological uncertainty into si
 ### `001` CONTINUUM
 **Unified probabilistic plate reconstruction**
 
-A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Continuum generates a probabilistic ensemble of continental configurations through time from palaeomagnetic and other constraints, then predicts plate boundary type, geometry and location with that uncertainty propagated end to end.
-
-Spatio-temporal confidence is quantified across both inter-model and intra-model dimensions, fit-to-data is evaluated against a wide range of geodynamic constraints, and the full ranked ensemble is always the deliverable. Explore the complete solution space of statistically viable, data-driven configurations.
+A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer.
 
 </td>
 <td width="50%" valign="top">
@@ -67,9 +65,7 @@ Spatio-temporal confidence is quantified across both inter-model and intra-model
 ### `002` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
-A global mantle convection model built for ensembles. Forced by a plate reconstruction, it runs on a desktop in minutes to tens of minutes per 200 Myr of model time, so hundreds of runs with different physical choices are affordable where one frontier run would take hundreds of HPC core-hours.
-
-There is no global Stokes solve. A layered propagator decouples the problem by spherical-harmonic degree, and every physical and numerical choice is an ingredient selected by a short recipe whose published values cite their sources. It is graded against frontier codes and seismic tomography, never embedded with them.
+A global mantle convection model built for ensembles rather than single heroic runs. Assembled by AI agents from tested, interchangeable physical ingredients and graded against frontier models and seismic tomography, it runs on a desktop in minutes, so hundreds of runs with different physical choices are affordable where one conventional run would take hundreds of HPC core-hours.
 
 </td>
 </tr>
@@ -79,9 +75,7 @@ There is no global Stokes solve. A layered propagator decouples the problem by s
 ### `003` MISE
 **Core framework for agent-assembled models**
 
-The shared method behind Mantlepiece and our other agent-built models: a codex of mechanisms, ingredients that represent them, recipes that assemble them, and an evidence ladder that tests each one, cheapest test first. Published reference runs and observations are the answer key.
-
-Mise asks one question of every model: *what is the cheapest representation that still satisfies the governing equations for this question, and how do we know it is good enough?* The name comes from *mise en place*. Every ingredient prepared before cooking starts.
+The shared method behind our agent-built models: a codex of physical mechanisms, interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient, cheapest test first. Mise asks one question of every model: what is the cheapest representation that still satisfies the governing equations, and how do we know it is good enough?
 
 </td>
 <td width="50%" valign="top">
@@ -89,9 +83,7 @@ Mise asks one question of every model: *what is the cheapest representation that
 ### `004` CKYBORG
 **AI satellite mineralogy mapping**
 
-An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data. Per-pixel spectra across hundreds of bands are classified and matched against reference mineral libraries to produce mineralogy maps with per-pixel confidence.
-
-Applicable equally to Earth and planetary investigations. Primary target: Mars, from the CRISM instrument aboard NASA's Mars Reconnaissance Orbiter. Secondary target: the Moon. Rapidly process, data-mine and map remote-sensing data products for critical mineral discovery and space exploration.
+An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable equally to Earth and planetary investigations. Rapidly process, data-mine and map remote-sensing data products for critical mineral discovery on Earth and mineral resource mapping of Mars and the Moon.
 
 </td>
 </tr>
@@ -101,9 +93,7 @@ Applicable equally to Earth and planetary investigations. Primary target: Mars, 
 ### `005` BLACKBIRD AI
 **Earth science as tools for AI assistants**
 
-A hosted service exposing Terrescient's tectonic reconstruction and mineral-mapping capability as a catalogue of typed, agent-callable tools over the Model Context Protocol. Any MCP-capable AI client, from Claude and ChatGPT to Cursor, becomes a front end: ask a question in plain language, the AI selects the tools, the tools execute on our infrastructure and return structured results.
-
-Built on Blackbird, our proprietary plate-model evaluation, comparison and data-driven modelling framework, developed directly from current academic research. Enterprise access serves pre-computed Continuum ensemble uncertainty as data.
+A hosted service exposing Terrescient's tectonic reconstruction and mineral-mapping capability as typed, agent-callable tools over the Model Context Protocol. Any MCP-capable AI assistant becomes a front end: ask a question in plain language, the AI selects the tools, and the tools return structured results, including ensemble uncertainty from Continuum. The customer's AI supplies the intelligence. We supply the capability.
 
 </td>
 <td width="50%" valign="top">
@@ -111,9 +101,7 @@ Built on Blackbird, our proprietary plate-model evaluation, comparison and data-
 ### `006` HUGINN · MUNINN
 **Versioned geoscience data platform with automated literature extraction**
 
-Named for Odin's ravens, memory and thought. Muninn consolidates the world's palaeomagnetic compilations into one canonical schema with full provenance, cross-source deduplication and a queryable serving layer. Huginn is the extraction framework built on top: pulling records from structured data hubs and from the scientific literature itself using vision-language models, landing them in the same schema and promotion pipeline so extraction and curation are one process.
-
-Turning legacy data archives into actionable geoscientific insight.
+Named for Odin's ravens, memory and thought. Muninn consolidates global geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn uses vision-language models to extract new records from the scientific literature into that same platform, so decades of legacy archives become live, queryable inputs to the models above.
 
 </td>
 </tr>
@@ -123,9 +111,7 @@ Turning legacy data archives into actionable geoscientific insight.
 ### `007` GPLATESPRO
 **The first commercial GPlates licence**
 
-We are proud to be working together with the EarthByte Group at The University of Sydney to develop the first commercial licence for GPlates, the open-source market-leading platform for tectonic model development used across research and industry worldwide.
-
-GPlatesPro expands the GPlates ecosystem with seamless integration into professional industry tools, bringing cutting-edge plate model visualisation and analysis to ArcGIS Pro and QGIS workflows for the first time. Built on 20+ years of research.
+Developed together with the EarthByte Group at The University of Sydney, GPlatesPro brings GPlates, the open-source market-leading platform for tectonic model development, into professional industry workflows for the first time, with seamless integration into the GIS tools industry already uses. Built on 20+ years of research.
 
 [gplates.org →](https://www.gplates.org) &nbsp; [earthbyte.org →](https://www.earthbyte.org)
 
@@ -135,9 +121,7 @@ GPlatesPro expands the GPlates ecosystem with seamless integration into professi
 ### `∞` BLACKBIRD
 **The foundation underneath**
 
-Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and geoscientific computation: reconstruction, velocity analysis, palaeomagnetic evaluation, spatial analysis and plate forces, wrapped as one consistent API over pyGPlates and the wider open-source stack.
-
-One shared implementation, tested once, used everywhere.
+Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and geoscientific computation, developed directly from current academic research. One shared implementation, tested once, used everywhere.
 
 </td>
 </tr>
