@@ -63,9 +63,11 @@ A global 3D mantle convection model purpose built for ensembles rather than sing
 <td width="50%" valign="top">
 
 ### `003` MISE
-**Core framework for agent-assembled models**
+**Core framework for Agent-Assembled Models**
 
-The shared method and philosophy behind our agent-built models: a codex of physical mechanisms, interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient, cheapest test first. Mise asks one question of every model: what is the cheapest representation that still satisfies the governing equations, and how do we test if this solution is good enough?
+Mise is our answer to a simple question: what if a scientific model could be assembled, tested and improved by AI agents working alongside the scientists who direct them? Every model becomes a living codex of physical mechanisms, with interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient before it is trusted. Agents propose, tests decide, and scientists set the questions and the standard of proof.
+
+Mise asks one question of every model: what is the cheapest representation that still satisfies the governing equations, and how do we know it is good enough? Established frontier models become the answer key rather than the engine, so a model that once demanded a supercomputer can be rebuilt to run on a desktop, then run hundreds of times. The method is domain-agnostic: Mantlepiece is the first Agent-Assembled Model, and any system governed by known equations but too costly to simulate by brute force is a candidate for the next. The name comes from *mise en place*: every ingredient prepared before cooking starts.
 
 </td>
 <td width="50%" valign="top">
