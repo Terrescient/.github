@@ -91,7 +91,7 @@ A hosted service that makes Terrescient's models and planetary science infrastru
 ### `006` HUGINN · MUNINN
 **Versioned planetary geoscience data platform with automated literature extraction**
 
-Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn helps our scientists bring published results into that same platform, each record traced to its original source and reviewed before use, so decades of research become live, queryable inputs to the models above.
+Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn helps our scientists bring published results into that same platform, each record traced to its original source and reviewed before use, so decades of research become live, queryable inputs to all Terrescient models.
 
 </td>
 </tr>
