@@ -18,6 +18,8 @@
 
 ## `[ 01 ]` SCIENTIST-LED · AI-NATIVE
 
+Terrescient builds one thing: an AI-coupled, uncertainty-quantified model of the whole Earth, from plate boundaries to the deep mantle. Three models run under the hood, each usable on its own; the product is their coupled combination, an ensemble of whole-Earth histories in which every surface reconstruction is tested by the plate motions and mantle structure it predicts.
+
 Our work is driven by domain knowledge and always grounded in, and validated against, the published literature. Where AI is commonly used simply to make research faster, we take a novel approach: machine intelligence is embedded in our modelling systems as a working component, assembling and testing our physical models and driving our mapping pipelines. This lets us tackle scientific problems that were not previously feasible, at a scale and speed that conventional workflows cannot reach.
 
 **How we use AI**
@@ -34,7 +36,9 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 
 <br>
 
-## `[ 02 ]` CURRENT PROJECTS
+## `[ 02 ]` THE PLATFORM
+
+**Continuum** reconstructs the surface, **Keel** fixes it to the mantle reference frame, and **Mantlepiece** models the mantle beneath. **Mise** is the agent layer that assembles, tests and couples all three under scientist direction. Inputs are distributions, outputs are scored ensembles: the complete solution space of statistically viable Earth histories, not a single answer.
 
 <table>
 <tr>
@@ -73,6 +77,13 @@ Mise is our answer to a simple question: what if a scientific model could be ass
 
 </td>
 </tr>
+</table>
+
+<br>
+
+## `[ 03 ]` ALSO IN DEVELOPMENT
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -121,6 +132,18 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 </td>
 </tr>
+</table>td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### `∞` BLACKBIRD
+**The foundation underneath**
+
+Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and planetary geoscientific computation, developed directly from current academic research. One shared implementation, tested once, used everywhere.
+
+</td>
+</tr>
 </table>
 
 <p align="center"><sub><code>Project repositories are private. Access for collaborators, sponsors and reviewers is available on request.</code></sub></p>
@@ -131,7 +154,7 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 <br>
 
-## `[ 03 ]` CAPABILITIES
+## `[ 04 ]` CAPABILITIES
 
 | | |
 |:--|:--|
@@ -145,7 +168,7 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 <br>
 
-## `[ 04 ]` COLLABORATION
+## `[ 05 ]` COLLABORATION
 
 Science does not happen in a vacuum. Actively working with and supporting open-access academic research is key to innovation. A selection of the global institutions and research groups we proudly collaborate with:
 
@@ -164,7 +187,7 @@ We maintain a public fork of [GPlates](https://github.com/Terrescient/GPlates) a
 
 <br>
 
-## `[ 05 ]` CONTACT
+## `[ 06 ]` CONTACT
 
 > *"We have two ears and one mouth so that we can listen twice as much as we speak."* — Epictetus
 
