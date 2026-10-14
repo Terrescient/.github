@@ -132,18 +132,6 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 </td>
 </tr>
-</table>td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### `∞` BLACKBIRD
-**The foundation underneath**
-
-Every project above is built on Blackbird, Terrescient's proprietary tooling layer for plate model data handling and planetary geoscientific computation, developed directly from current academic research. One shared implementation, tested once, used everywhere.
-
-</td>
-</tr>
 </table>
 
 <p align="center"><sub><code>Project repositories are private. Access for collaborators, sponsors and reviewers is available on request.</code></sub></p>
