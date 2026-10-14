@@ -18,6 +18,8 @@
 
 ## `[ 01 ]` SCIENTIST-LED · AI-NATIVE
 
+Terrescient builds one thing: an AI-coupled, uncertainty-quantified model of the whole Earth, from plate boundaries to the deep mantle. Three models run under the hood, each usable on its own; the product is their coupled combination, an ensemble of whole-Earth histories in which every surface reconstruction is tested by the plate motions and mantle structure it predicts.
+
 Our work is driven by domain knowledge and always grounded in, and validated against, the published literature. Where AI is commonly used simply to make research faster, we take a novel approach: machine intelligence is embedded in our modelling systems as a working component, assembling and testing our physical models and driving our mapping pipelines. This lets us tackle scientific problems that were not previously feasible, at a scale and speed that conventional workflows cannot reach.
 
 **How we use AI**
@@ -34,7 +36,9 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 
 <br>
 
-## `[ 02 ]` CURRENT PROJECTS
+## `[ 02 ]` THE PLATFORM
+
+**Continuum** reconstructs the surface, **Keel** fixes it to the mantle reference frame, and **Mantlepiece** models the mantle beneath. **Mise** is the agent layer that assembles, tests and couples all three under scientist direction. Inputs are distributions, outputs are scored ensembles: the complete solution space of statistically viable Earth histories, not a single answer.
 
 <table>
 <tr>
@@ -43,58 +47,73 @@ Our work is driven by domain knowledge and always grounded in, and validated aga
 ### `001` CONTINUUM
 **Unified probabilistic plate reconstruction**
 
-A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer. Coupled with Mantlepiece, each reconstruction can be tested by the mantle structure it predicts, linking the Earth's surface history to its deep interior.
+A framework for generating full, uncertainty-quantified plate tectonic reconstructions directly from observational data. Where conventional workflows collapse the past into one deterministic model, Continuum treats inputs as distributions and delivers a scored ensemble of statistically viable configurations, with uncertainty propagated from continental position through to plate boundary geometry. Explore the complete solution space, not a single answer. Coupled with Keel and Mantlepiece, each reconstruction can be tested by the absolute plate motions and mantle structure it predicts, linking the Earth's surface history to its deep interior.
 
 </td>
 <td width="50%" valign="top">
 
-### `002` MANTLEPIECE
+### `002` KEEL
+**Optimised absolute plate motion**
+
+The reference frame that ties the surface to the mantle beneath it. Keel optimises absolute plate motion against hotspot tracks, palaeomagnetic data and geodynamic constraints, returning an ensemble of viable frames rather than one. It is the hinge of our coupled Earth model, carrying Continuum's reconstructions into Mantlepiece's mantle. Built on optAPM, the published method authored by our founder.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `003` MANTLEPIECE
 **Agent-assembled geodynamic model**
 
 A global 3D mantle convection model purpose built for ensembles rather than single heroic runs. Built using our proprietary Mise Agent-Assembled Model (AAM) architecture, it is constructed by AI agents from tested, interchangeable physical ingredients and graded against frontier geodynamic models and seismic tomography. It runs on a desktop in minutes, so hundreds to thousands of runs with different physical choices are affordable locally where one conventional run would take hundreds of HPC core-hours. Coupled with Continuum, it turns ensembles of plate reconstructions into ensembles of mantle histories, so surface and deep-Earth uncertainty are explored together.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### `003` MISE
+### `004` MISE
 **Core framework for Agent-Assembled Models**
 
 Mise is our answer to a simple question: what if a scientific model could be assembled, tested and improved by AI agents working alongside the scientists who direct them? Every model becomes a living codex of physical mechanisms, with interchangeable ingredients that represent them, recipes that assemble them, and an evidence ladder that tests every ingredient before it is trusted. Agents propose, tests decide, and scientists set the questions and the standard of proof.
 
 </td>
+</tr>
+</table>
+
+<br>
+
+## `[ 03 ]` ALSO IN DEVELOPMENT
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### `004` CKYBORG
+### `005` CKYBORG
 **Agent-driven probabilistic mineralogy mapping**
 
 An unsupervised machine-learning pipeline that maps minerals from hyperspectral satellite imagery with neither ground samples nor labelled training data, applicable to both Earth and planetary investigations. We are now bringing the Mise philosophy to the image itself: rather than a single deterministic map, AI agents embedded in the method make observations, test competing interpretations and refine the analysis between runs, returning a distribution of mineral solutions for every pixel. The result is mineral mapping with honest uncertainty, for critical mineral discovery on Earth and resource mapping of Mars and the Moon.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### `005` BLACKBIRD AI
+### `006` BLACKBIRD AI
 **Planetary geoscience as tools for AI assistants**
 
 A hosted service that makes Terrescient's models and planetary science infrastructure available to AI assistants as typed, agent-callable tools over the Model Context Protocol. Any MCP-capable assistant becomes a front end: ask a question in plain language, the AI selects the tools, and the tools return structured results, including the ensemble uncertainty that runs through all of our work. Blackbird AI is the common gateway to our modelling, starting with Continuum plate reconstructions and growing to include Mantlepiece mantle histories and ckyborg mineral maps. The customer's AI supplies the intelligence. We supply the capability.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### `006` HUGINN · MUNINN
+### `007` HUGINN · MUNINN
 **Versioned planetary geoscience data platform with automated literature extraction**
 
 Named for Odin's ravens, memory and thought. Muninn consolidates global planetary geoscientific compilations into one canonical, fully provenanced and versioned data platform. Huginn helps our scientists bring published results into that same platform, each record traced to its original source and reviewed before use, so decades of research become live, queryable inputs to all Terrescient models.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### `007` GPLATESPRO
+### `008` GPLATESPRO
 **The first commercial GPlates licence**
 
 Developed together with the EarthByte Group at The University of Sydney, GPlatesPro brings GPlates, the open-source market-leading platform for tectonic model development, into professional industry workflows for the first time, with seamless integration into the GIS tools industry already uses. Built on 20+ years of research.
@@ -102,7 +121,9 @@ Developed together with the EarthByte Group at The University of Sydney, GPlates
 [gplates.org →](https://www.gplates.org) &nbsp; [earthbyte.org →](https://www.earthbyte.org)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### `∞` BLACKBIRD
 **The foundation underneath**
@@ -121,7 +142,7 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 <br>
 
-## `[ 03 ]` CAPABILITIES
+## `[ 04 ]` CAPABILITIES
 
 | | |
 |:--|:--|
@@ -135,7 +156,7 @@ Every project above is built on Blackbird, Terrescient's proprietary tooling lay
 
 <br>
 
-## `[ 04 ]` COLLABORATION
+## `[ 05 ]` COLLABORATION
 
 Science does not happen in a vacuum. Actively working with and supporting open-access academic research is key to innovation. A selection of the global institutions and research groups we proudly collaborate with:
 
@@ -154,7 +175,7 @@ We maintain a public fork of [GPlates](https://github.com/Terrescient/GPlates) a
 
 <br>
 
-## `[ 05 ]` CONTACT
+## `[ 06 ]` CONTACT
 
 > *"We have two ears and one mouth so that we can listen twice as much as we speak."* — Epictetus
 
