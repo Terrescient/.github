@@ -66,38 +66,7 @@ Surface to core, in one loop. Three deterministic physical models run in sequenc
 
 <br>
 
-## `[ 05 ]` SCIENCE AND COLLABORATION
-
-Everything we build stands on published, peer-reviewed research, much of it our own. The Earth Model takes that groundwork and makes it one coupled, testable system. The papers are listed on [terrescient.com](https://terrescient.com/#science).
-
-The collaborations our work is built on:
-
-| | |
-|:--|:--|
-| **The University of Sydney** | EarthByte, School of Geosciences |
-| **California Institute of Technology** | Seismological Laboratory |
-| **Université Côte d'Azur** | Géoazur |
-| **UT Austin** | Institute for Geophysics |
-| **Curtin University** | Earth Dynamics Research Group |
-| **ENS Paris** | Laboratoire de Géologie |
-| **GFZ Potsdam** | Lithospheric Dynamics |
-| **University of Helsinki and GTK Finland** | Palaeomagnetics Laboratory |
-
-We maintain a public fork of [GPlates](https://github.com/Terrescient/GPlates), the open-source plate reconstruction software our toolchain is built on, and are a GPlates Development Partner with the EarthByte Research Group. Our other repositories are private; access for collaborators, sponsors and reviewers is available on request.
-
-<br>
-
-## `[ 06 ]` PROGRAMMES
-
-| | |
-|:--|:--|
-| **Partner organisation** | ARC Research Hub for Geodynamic Pathways to Critical Resources (GeoPath), led by The Australian National University, 2026 to 2031. |
-| **Startup programmes** | Anthropic · Claude for Startups. AWS Activate. Notion for Startups. |
-| **Advisory** | A scientific advisory board of senior researchers in plate tectonics, geodynamics and mineral systems, holding what we build to the standard of the published literature. |
-
-<br>
-
-## `[ 07 ]` CONTACT
+## `[ 05 ]` CONTACT
 
 **One address. A person reads it.** Researchers, explorers, investors, reviewers, people who want to work on the whole Earth: write to us and say who you are. We answer.
 
